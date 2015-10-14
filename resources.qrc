@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo_cnpq.png</file>
+        <file>images/logo_fema.png</file>
+        <file>images/widgets/label.png</file>
+        <file>images/widgets/lineedit.png</file>
+        <file>images/widgets/pushbutton.png</file>
+        <file>images/widgets/checkbox.png</file>
+        <file>images/widgets/combobox.png</file>
+        <file>images/widgets/groupbox.png</file>
+        <file>images/widgets/radiobutton.png</file>
+        <file>images/action/copy.png</file>
+        <file>images/action/cut.png</file>
+        <file>images/action/new.png</file>
+        <file>images/action/open.png</file>
+        <file>images/action/paste.png</file>
+        <file>images/action/save.png</file>
+        <file>images/action/close.png</file>
+        <file>images/action/exit.png</file>
+        <file>images/action/qtlogo.png</file>
+        <file>images/styler.css</file>
+        <file>images/down_arrow.png</file>
+        <file>images/left_arrow.png</file>
+        <file>images/right_arrow.png</file>
+        <file>images/up_arrow.png</file>
+        <file>images/action/arrow_redo.png</file>
+        <file>images/action/arrow_undo.png</file>
+        <file>images/action/application_form_edit.png</file>
+        <file>images/connector.png</file>
+        <file>images/process_add.png</file>
+        <file>images/cursor_arrow.png</file>
+        <file>images/action/cog_go.png</file>
+        <file>images/action/bricks.png</file>
+        <file>images/action/brick.png</file>
+        <file>images/action/brick_go.png</file>
+        <file>images/action/cross.png</file>
+        <file>lisp/geh-device.lisp</file>
+        <file>lisp/geh-common.lisp</file>
+        <file>images/mouse.png</file>
+    </qresource>
+</RCC>
